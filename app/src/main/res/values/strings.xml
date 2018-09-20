@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+
+
+	<!-- Application level -->
+
+	<string name="app_name">VENDERE</string>
+
+
+	<!-- SplashScreenActivity -->
+
+	<string name="splash_screen_activity_vendere_text_view_text">Vendere</string>
+
+
+	<!-- IntroActivity -->
+
+	<string name="intro_activity_welcome_to_vendere_text_view_text">Welcome to Vendere\n</string>
+	<string name="intro_activity_an_exclusive_marketp_text_view_text">an exclusive marketplace\nfor your campus</string>
+	<string name="intro_activity_log_in_text_view_text">Log In</string>
+	<string name="intro_activity_sign_up_button_text">Sign Up</string>
+	<string name="intro_activity_placeholder_copy_edit_text_text">Enter your email</string>
+	<string name="intro_activity_password_edit_text_text">Password</string>
+	<string name="intro_activity_button_copy_button_text">Log In</string>
+
+
+	<!-- EmailActivity -->
+
+	<string name="email_activity_what_syour_email_ad_text_view_text">What’s your email\naddress?</string>
+	<string name="email_activity_placeholder_edit_text_text">Enter your email</string>
+	<string name="email_activity_button_button_text">Continue</string>
+
+
+	<!-- PasswordActivity -->
+
+	<string name="password_activity_choose_apassword_text_view_text">Choose a \npassword</string>
+	<string name="password_activity_enter_your_password_edit_text_text">Enter your Password</string>
+	<string name="password_activity_register_copy_text_view_text">Register</string>
+	<string name="password_activity_button_copy2_button_text">Continue</string>
+
+
+	<!-- ProfileActivity -->
+
+	<string name="profile_activity_first_name_edit_text_text">First Name</string>
+	<string name="profile_activity_last_name_edit_text_text">Last Name</string>
+	<string name="profile_activity_major_edit_text_text">Major</string>
+	<string name="profile_activity_text_view_text_view_text">+1</string>
+	<string name="profile_activity_mobile_number_edit_text_text">Mobile Number</string>
+	<string name="profile_activity_register_text_view_text">Register</string>
+	<string name="profile_activity_complete_profile_text_view_text">Complete Profile</string>
+	<string name="profile_activity_button_copy_button_text">Continue</string>
+	<string name="profile_activity_add_profile_pic_text_view_text">Add Profile Pic</string>
+
+
+	<!-- MarketplaceActivity -->
+
+	<string name="marketplace_activity_your_local_market_pl_text_view_text">Your Local \nMarket Place</string>
+	<string name="marketplace_activity_recent_listings_text_view_text">Recent Listings</string>
+	<string name="marketplace_activity_filter_btn_button_text">Filter</string>
+	<string name="marketplace_activity_vcd4321_text_view_text">#vcd4321</string>
+	<string name="marketplace_activity_text_view_text_view_text">$$</string>
+	<string name="marketplace_activity_sooyun_text_view_text">#sooyun</string>
+	<string name="marketplace_activity_artdept_text_view_text">#artdept</string>
+	<string name="marketplace_activity_title_text_view_text">Title</string>
+	<string name="marketplace_activity_description_text_view_text">Description</string>
+	<string name="marketplace_activity_vcd4321_two_text_view_text">#vcd4321</string>
+	<string name="marketplace_activity_text_view_two_text_view_text">$$</string>
+	<string name="marketplace_activity_sooyun_two_text_view_text">#sooyun</string>
+	<string name="marketplace_activity_artdept_two_text_view_text">#artdept</string>
+	<string name="marketplace_activity_title_two_text_view_text">Title</string>
+	<string name="marketplace_activity_description_two_text_view_text">Description</string>
+	<string name="marketplace_activity_vcd4321_three_text_view_text">#vcd4321</string>
+	<string name="marketplace_activity_text_view_three_text_view_text">$$</string>
+	<string name="marketplace_activity_sooyun_three_text_view_text">#sooyun</string>
+	<string name="marketplace_activity_artdept_three_text_view_text">#artdept</string>
+	<string name="marketplace_activity_title_three_text_view_text">Title</string>
+	<string name="marketplace_activity_description_three_text_view_text">Description</string>
+	<string name="marketplace_activity_vcd4321_four_text_view_text">#vcd4321</string>
+	<string name="marketplace_activity_text_view_four_text_view_text">$$</string>
+	<string name="marketplace_activity_sooyun_four_text_view_text">#sooyun</string>
+	<string name="marketplace_activity_artdept_four_text_view_text">#artdept</string>
+	<string name="marketplace_activity_title_four_text_view_text">Title</string>
+	<string name="marketplace_activity_description_four_text_view_text">Description</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<stroke
+		android:color="@color/marketplace_activity_rectangle3_image_view_border_color"
+		android:width="@dimen/marketplace_activity_rectangle3_image_view_border_size"/>
+
+</shape>

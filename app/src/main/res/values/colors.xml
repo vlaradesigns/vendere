@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+
+
+	<!-- Application level -->
+
+	<color name="click_overlay">#5555554D</color>
+
+
+	<!-- SplashScreenActivity -->
+
+	<color name="splash_screen_activity_splash_screen_constraint_layout_background_color">#FFFFFF</color>
+	<color name="splash_screen_activity_vendere_text_view_background_color">@android:color/transparent</color>
+	<color name="splash_screen_activity_vendere_text_view_text_color">#535D7E</color>
+
+
+	<!-- IntroActivity -->
+
+	<color name="intro_activity_intro_constraint_layout_background_color">#FFFFFF</color>
+	<color name="intro_activity_welcome_to_vendere_text_view_background_color">@android:color/transparent</color>
+	<color name="intro_activity_welcome_to_vendere_text_view_text_color">#535D7E</color>
+	<color name="intro_activity_an_exclusive_marketp_text_view_background_color">@android:color/transparent</color>
+	<color name="intro_activity_an_exclusive_marketp_text_view_text_color">#535D7E</color>
+	<color name="intro_activity_log_in_text_view_background_color">@android:color/transparent</color>
+	<color name="intro_activity_log_in_text_view_text_color">#535D7E</color>
+	<color name="intro_activity_sign_up_button_background_color">@android:color/transparent</color>
+	<color name="intro_activity_sign_up_button_text_color">#535D7E</color>
+	<color name="intro_activity_placeholder_copy_edit_text_background_color">@android:color/transparent</color>
+	<color name="intro_activity_placeholder_copy_edit_text_text_color">#535D7E</color>
+	<color name="intro_activity_password_edit_text_background_color">@android:color/transparent</color>
+	<color name="intro_activity_password_edit_text_text_color">#535D7E</color>
+	<color name="intro_activity_line_copy_edit_text_background_color">#DCDCDC</color>
+	<color name="intro_activity_line_copy_edit_text_text_color">#000000</color>
+	<color name="intro_activity_line_copy2_edit_text_background_color">#DCDCDC</color>
+	<color name="intro_activity_line_copy2_edit_text_text_color">#000000</color>
+	<color name="intro_activity_button_copy_button_background_color">#535D7E</color>
+	<color name="intro_activity_button_copy_button_text_color">#FFFFFF</color>
+
+
+	<!-- EmailActivity -->
+
+	<color name="email_activity_email_constraint_layout_background_color">#FFFFFF</color>
+	<color name="email_activity_what_syour_email_ad_text_view_background_color">@android:color/transparent</color>
+	<color name="email_activity_what_syour_email_ad_text_view_text_color">#5F6887</color>
+	<color name="email_activity_placeholder_edit_text_background_color">@android:color/transparent</color>
+	<color name="email_activity_placeholder_edit_text_text_color">#535D7E</color>
+	<color name="email_activity_line_edit_text_background_color">#DCDCDC</color>
+	<color name="email_activity_line_edit_text_text_color">#000000</color>
+	<color name="email_activity_rectangle_constraint_layout_background_color">#F6F6F6</color>
+	<color name="email_activity_button_button_background_color">#535D7E</color>
+	<color name="email_activity_button_button_text_color">#FFFFFF</color>
+
+
+	<!-- PasswordActivity -->
+
+	<color name="password_activity_password_constraint_layout_background_color">#FFFFFF</color>
+	<color name="password_activity_choose_apassword_text_view_background_color">@android:color/transparent</color>
+	<color name="password_activity_choose_apassword_text_view_text_color">#5F6887</color>
+	<color name="password_activity_enter_your_password_edit_text_background_color">@android:color/transparent</color>
+	<color name="password_activity_enter_your_password_edit_text_text_color">#535D7E</color>
+	<color name="password_activity_line_edit_text_background_color">#DCDCDC</color>
+	<color name="password_activity_line_edit_text_text_color">#000000</color>
+	<color name="password_activity_register_copy_text_view_background_color">@android:color/transparent</color>
+	<color name="password_activity_register_copy_text_view_text_color">#FFFFFF</color>
+	<color name="password_activity_rectangle_copy2_constraint_layout_background_color">#F6F6F6</color>
+	<color name="password_activity_button_copy2_button_background_color">#535D7E</color>
+	<color name="password_activity_button_copy2_button_text_color">#FFFFFF</color>
+
+
+	<!-- ProfileActivity -->
+
+	<color name="profile_activity_profile_constraint_layout_background_color">#FFFFFF</color>
+	<color name="profile_activity_rectangle2_copy_edit_text_background_color">#FFFFFF</color>
+	<color name="profile_activity_rectangle2_copy_edit_text_text_color">#000000</color>
+	<color name="profile_activity_rectangle2_copy_edit_text_border_color">#DADAED</color>
+	<color name="profile_activity_first_name_edit_text_background_color">@android:color/transparent</color>
+	<color name="profile_activity_first_name_edit_text_text_color">#A9AEBE</color>
+	<color name="profile_activity_rectangle2_copy2_edit_text_background_color">#FFFFFF</color>
+	<color name="profile_activity_rectangle2_copy2_edit_text_text_color">#000000</color>
+	<color name="profile_activity_rectangle2_copy2_edit_text_border_color">#DADAED</color>
+	<color name="profile_activity_last_name_edit_text_background_color">@android:color/transparent</color>
+	<color name="profile_activity_last_name_edit_text_text_color">#A9AEBE</color>
+	<color name="profile_activity_rectangle2_copy3_edit_text_background_color">#FFFFFF</color>
+	<color name="profile_activity_rectangle2_copy3_edit_text_text_color">#000000</color>
+	<color name="profile_activity_rectangle2_copy3_edit_text_border_color">#DADAED</color>
+	<color name="profile_activity_major_edit_text_background_color">@android:color/transparent</color>
+	<color name="profile_activity_major_edit_text_text_color">#A9AEBE</color>
+	<color name="profile_activity_rectangle2_copy4_edit_text_background_color">#FFFFFF</color>
+	<color name="profile_activity_rectangle2_copy4_edit_text_text_color">#000000</color>
+	<color name="profile_activity_rectangle2_copy4_edit_text_border_color">#DADAED</color>
+	<color name="profile_activity_rectangle2_copy5_image_view_background_color">@android:color/transparent</color>
+	<color name="profile_activity_text_view_text_view_background_color">@android:color/transparent</color>
+	<color name="profile_activity_text_view_text_view_text_color">#535D7E</color>
+	<color name="profile_activity_mobile_number_edit_text_background_color">@android:color/transparent</color>
+	<color name="profile_activity_mobile_number_edit_text_text_color">#A9AEBE</color>
+	<color name="profile_activity_register_text_view_background_color">@android:color/transparent</color>
+	<color name="profile_activity_register_text_view_text_color">#FFFFFF</color>
+	<color name="profile_activity_add_pic_constraint_layout_background_color">@android:color/transparent</color>
+	<color name="profile_activity_complete_profile_text_view_background_color">@android:color/transparent</color>
+	<color name="profile_activity_complete_profile_text_view_text_color">#5F6887</color>
+	<color name="profile_activity_rectangle_copy_constraint_layout_background_color">#F6F6F6</color>
+	<color name="profile_activity_button_copy_button_background_color">#535D7E</color>
+	<color name="profile_activity_button_copy_button_text_color">#FFFFFF</color>
+	<color name="profile_activity_group3_constraint_layout_background_color">@android:color/transparent</color>
+	<color name="profile_activity_add_profile_pic_text_view_background_color">@android:color/transparent</color>
+	<color name="profile_activity_add_profile_pic_text_view_text_color">#535D7E</color>
+	<color name="profile_activity_building_constraint_layout_background_color">@android:color/transparent</color>
+	<color name="profile_activity_group2_image_view_background_color">@android:color/transparent</color>
+	<color name="profile_activity_mask_image_view_background_color">@android:color/transparent</color>
+	<color name="profile_activity_mask_copy_image_view_background_color">@android:color/transparent</color>
+
+
+	<!-- MarketplaceActivity -->
+
+	<color name="marketplace_activity_marketplace_constraint_layout_background_color">#FFFFFF</color>
+	<color name="marketplace_activity_group2_image_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_rectangle3_image_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_rectangle3_image_view_border_color">#979797</color>
+	<color name="marketplace_activity_rectangle4_constraint_layout_background_color">#535D7E</color>
+	<color name="marketplace_activity_fill1_copy2_image_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_fill1_copy_image_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_your_local_market_pl_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_your_local_market_pl_text_view_text_color">#FFFFFF</color>
+	<color name="marketplace_activity_rectangle7_edit_text_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_rectangle7_edit_text_text_color">#000000</color>
+	<color name="marketplace_activity_rectangle7_edit_text_border_color">#535D7E</color>
+	<color name="marketplace_activity_fill1_button_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_fill1_button_text_color">#000000</color>
+	<color name="marketplace_activity_recent_listings_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_recent_listings_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_list_ui_constraint_layout_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_list_ui_constraint_layout_border_color">#ECECEC</color>
+	<color name="marketplace_activity_list_ui_copy2_constraint_layout_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_list_ui_copy2_constraint_layout_border_color">#ECECEC</color>
+	<color name="marketplace_activity_list_ui_copy_constraint_layout_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_list_ui_copy_constraint_layout_border_color">#ECECEC</color>
+	<color name="marketplace_activity_list_ui_copy3_constraint_layout_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_list_ui_copy3_constraint_layout_border_color">#ECECEC</color>
+	<color name="marketplace_activity_filter_btn_button_background_color">#535D7E</color>
+	<color name="marketplace_activity_filter_btn_button_text_color">#FFFFFF</color>
+	<color name="marketplace_activity_fill1_image_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_ui_card_info_constraint_layout_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_rectangle8_image_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_vcd4321_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_vcd4321_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_text_view_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_text_view_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_sooyun_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_sooyun_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_artdept_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_artdept_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_title_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_title_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_description_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_description_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_fill1_two_image_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_ui_card_info_two_constraint_layout_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_rectangle8_two_image_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_vcd4321_two_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_vcd4321_two_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_text_view_two_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_text_view_two_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_sooyun_two_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_sooyun_two_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_artdept_two_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_artdept_two_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_title_two_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_title_two_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_description_two_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_description_two_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_fill1_three_image_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_ui_card_info_three_constraint_layout_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_rectangle8_three_image_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_vcd4321_three_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_vcd4321_three_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_text_view_three_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_text_view_three_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_sooyun_three_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_sooyun_three_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_artdept_three_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_artdept_three_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_title_three_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_title_three_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_description_three_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_description_three_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_fill1_four_image_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_ui_card_info_four_constraint_layout_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_rectangle8_four_image_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_vcd4321_four_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_vcd4321_four_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_text_view_four_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_text_view_four_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_sooyun_four_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_sooyun_four_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_artdept_four_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_artdept_four_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_title_four_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_title_four_text_view_text_color">#434F78</color>
+	<color name="marketplace_activity_description_four_text_view_background_color">@android:color/transparent</color>
+	<color name="marketplace_activity_description_four_text_view_text_color">#434F78</color>
+</resources>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<android.support.constraint.ConstraintLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/email_constraint_layout"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@color/email_activity_email_constraint_layout_background_color">
+
+	<TextView
+		android:id="@+id/what_syour_email_ad_text_view"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="@dimen/email_activity_what_syour_email_ad_text_view_margin_start"
+		android:layout_marginTop="@dimen/email_activity_what_syour_email_ad_text_view_margin_top"
+		android:gravity="left"
+		android:letterSpacing="-0.03"
+		android:lineSpacingMultiplier="1"
+		android:text="@string/email_activity_what_syour_email_ad_text_view_text"
+		android:textColor="@color/email_activity_what_syour_email_ad_text_view_text_color"
+		android:textSize="@dimen/email_activity_what_syour_email_ad_text_view_text_size"
+		app:layout_constraintLeft_toLeftOf="parent"
+		app:layout_constraintTop_toTopOf="parent"
+		tools:layout_editor_absoluteX="20dp"
+		tools:layout_editor_absoluteY="137dp"/>
+
+	<EditText
+		android:id="@+id/placeholder_edit_text"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="@dimen/email_activity_placeholder_edit_text_margin_start"
+		android:layout_marginTop="@dimen/email_activity_placeholder_edit_text_margin_top"
+		android:gravity="left"
+		android:hint="@string/email_activity_placeholder_edit_text_text"
+		android:lineSpacingMultiplier="1"
+		android:padding="0dp"
+		android:textColor="@color/email_activity_placeholder_edit_text_text_color"
+		android:textSize="@dimen/email_activity_placeholder_edit_text_text_size"
+		app:layout_constraintLeft_toLeftOf="parent"
+		app:layout_constraintTop_toBottomOf="@+id/what_syour_email_ad_text_view"
+		tools:layout_editor_absoluteX="20dp"
+		tools:layout_editor_absoluteY="311dp"/>
+
+	<EditText
+		android:id="@+id/line_edit_text"
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="@dimen/email_activity_line_edit_text_margin_start"
+		android:layout_marginRight="@dimen/email_activity_line_edit_text_margin_end"
+		android:layout_marginTop="@dimen/email_activity_line_edit_text_margin_top"
+		android:background="@color/email_activity_line_edit_text_background_color"
+		android:fontFamily="@font/font_sfnstext"
+		android:gravity="left"
+		android:lineSpacingMultiplier="1"
+		android:padding="0dp"
+		android:textColor="@color/email_activity_line_edit_text_text_color"
+		android:textSize="@dimen/email_activity_line_edit_text_text_size"
+		app:layout_constraintLeft_toLeftOf="parent"
+		app:layout_constraintRight_toRightOf="parent"
+		app:layout_constraintTop_toBottomOf="@+id/placeholder_edit_text"
+		tools:layout_editor_absoluteX="20dp"
+		tools:layout_editor_absoluteY="353dp"/>
+
+	<android.support.constraint.ConstraintLayout
+		android:id="@+id/rectangle_constraint_layout"
+		android:layout_width="0dp"
+		android:layout_height="@dimen/email_activity_rectangle_constraint_layout_height"
+		android:layout_marginLeft="@dimen/email_activity_rectangle_constraint_layout_margin_start"
+		android:layout_marginRight="@dimen/email_activity_rectangle_constraint_layout_margin_end"
+		android:background="@color/email_activity_rectangle_constraint_layout_background_color"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintLeft_toLeftOf="parent"
+		app:layout_constraintRight_toRightOf="parent"
+		tools:layout_editor_absoluteX="-1dp"
+		tools:layout_editor_absoluteY="535dp"/>
+
+	<Button
+		android:id="@+id/button_button"
+		android:layout_width="0dp"
+		android:layout_height="@dimen/email_activity_button_button_height"
+		android:layout_marginBottom="@dimen/email_activity_button_button_margin_bottom"
+		android:layout_marginLeft="@dimen/email_activity_button_button_margin_start"
+		android:layout_marginRight="@dimen/email_activity_button_button_margin_end"
+		android:background="@drawable/email_activity_button_button_selector"
+		android:elevation="@dimen/elevation_default"
+		android:gravity="center"
+		android:lineSpacingMultiplier="1"
+		android:text="@string/email_activity_button_button_text"
+		android:textColor="@color/email_activity_button_button_text_color"
+		android:textSize="@dimen/email_activity_button_button_text_size"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintLeft_toLeftOf="parent"
+		app:layout_constraintRight_toRightOf="parent"
+		tools:layout_editor_absoluteX="20dp"
+		tools:layout_editor_absoluteY="574dp"/>
+
+</android.support.constraint.ConstraintLayout>

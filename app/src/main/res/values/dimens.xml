@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+
+
+	<!-- Material Grid dimensions -->
+
+	<dimen name="elevation_default">8dp</dimen>
+	<dimen name="material_size_small">8dp</dimen>
+	<dimen name="material_size_medium">16dp</dimen>
+	<dimen name="material_size_large">24dp</dimen>
+	<dimen name="material_size_xlarge">32dp</dimen>
+
+
+	<!-- SplashScreenActivity -->
+
+	<dimen name="splash_screen_activity_vendere_text_view_margin_top">288dp</dimen>
+	<dimen name="splash_screen_activity_vendere_text_view_text_size">24sp</dimen>
+
+
+	<!-- IntroActivity -->
+
+	<dimen name="intro_activity_welcome_to_vendere_text_view_margin_top">45dp</dimen>
+	<dimen name="intro_activity_welcome_to_vendere_text_view_text_size">24sp</dimen>
+	<dimen name="intro_activity_an_exclusive_marketp_text_view_margin_top">95dp</dimen>
+	<dimen name="intro_activity_an_exclusive_marketp_text_view_text_size">13sp</dimen>
+	<dimen name="intro_activity_log_in_text_view_margin_top">80dp</dimen>
+	<dimen name="intro_activity_log_in_text_view_margin_start">21dp</dimen>
+	<dimen name="intro_activity_log_in_text_view_text_size">17sp</dimen>
+	<dimen name="intro_activity_sign_up_button_width">48dp</dimen>
+	<dimen name="intro_activity_sign_up_button_height">24dp</dimen>
+	<dimen name="intro_activity_sign_up_button_margin_bottom">51dp</dimen>
+	<dimen name="intro_activity_sign_up_button_text_size">13sp</dimen>
+	<dimen name="intro_activity_placeholder_copy_edit_text_margin_top">56dp</dimen>
+	<dimen name="intro_activity_placeholder_copy_edit_text_margin_start">20dp</dimen>
+	<dimen name="intro_activity_placeholder_copy_edit_text_text_size">17sp</dimen>
+	<dimen name="intro_activity_password_edit_text_margin_top">69dp</dimen>
+	<dimen name="intro_activity_password_edit_text_margin_start">20dp</dimen>
+	<dimen name="intro_activity_password_edit_text_text_size">17sp</dimen>
+	<dimen name="intro_activity_line_copy_edit_text_margin_top">16dp</dimen>
+	<dimen name="intro_activity_line_copy_edit_text_margin_end">18dp</dimen>
+	<dimen name="intro_activity_line_copy_edit_text_text_size">11sp</dimen>
+	<dimen name="intro_activity_line_copy2_edit_text_margin_top">16dp</dimen>
+	<dimen name="intro_activity_line_copy2_edit_text_margin_end">18dp</dimen>
+	<dimen name="intro_activity_line_copy2_edit_text_text_size">11sp</dimen>
+	<dimen name="intro_activity_button_copy_button_width">321dp</dimen>
+	<dimen name="intro_activity_button_copy_button_height">52dp</dimen>
+	<dimen name="intro_activity_button_copy_button_margin_bottom">24dp</dimen>
+	<dimen name="intro_activity_button_copy_button_margin_end">17dp</dimen>
+	<dimen name="intro_activity_button_copy_button_radius">3dp</dimen>
+	<dimen name="intro_activity_button_copy_button_text_size">15sp</dimen>
+
+
+	<!-- EmailActivity -->
+
+	<dimen name="email_activity_what_syour_email_ad_text_view_margin_top">131dp</dimen>
+	<dimen name="email_activity_what_syour_email_ad_text_view_margin_start">19dp</dimen>
+	<dimen name="email_activity_what_syour_email_ad_text_view_text_size">30sp</dimen>
+	<dimen name="email_activity_placeholder_edit_text_margin_top">86dp</dimen>
+	<dimen name="email_activity_placeholder_edit_text_margin_start">19dp</dimen>
+	<dimen name="email_activity_placeholder_edit_text_text_size">17sp</dimen>
+	<dimen name="email_activity_line_edit_text_margin_top">16dp</dimen>
+	<dimen name="email_activity_line_edit_text_margin_start">19dp</dimen>
+	<dimen name="email_activity_line_edit_text_margin_end">19dp</dimen>
+	<dimen name="email_activity_line_edit_text_text_size">11sp</dimen>
+	<dimen name="email_activity_rectangle_constraint_layout_height">126dp</dimen>
+	<dimen name="email_activity_rectangle_constraint_layout_margin_start">-1dp</dimen>
+	<dimen name="email_activity_rectangle_constraint_layout_margin_end">1dp</dimen>
+	<dimen name="email_activity_button_button_height">52dp</dimen>
+	<dimen name="email_activity_button_button_margin_bottom">36dp</dimen>
+	<dimen name="email_activity_button_button_margin_start">19dp</dimen>
+	<dimen name="email_activity_button_button_margin_end">19dp</dimen>
+	<dimen name="email_activity_button_button_radius">3dp</dimen>
+	<dimen name="email_activity_button_button_text_size">15sp</dimen>
+
+
+	<!-- PasswordActivity -->
+
+	<dimen name="password_activity_choose_apassword_text_view_margin_top">131dp</dimen>
+	<dimen name="password_activity_choose_apassword_text_view_margin_start">19dp</dimen>
+	<dimen name="password_activity_choose_apassword_text_view_text_size">30sp</dimen>
+	<dimen name="password_activity_enter_your_password_edit_text_margin_top">86dp</dimen>
+	<dimen name="password_activity_enter_your_password_edit_text_margin_start">19dp</dimen>
+	<dimen name="password_activity_enter_your_password_edit_text_text_size">17sp</dimen>
+	<dimen name="password_activity_line_edit_text_margin_top">16dp</dimen>
+	<dimen name="password_activity_line_edit_text_margin_start">19dp</dimen>
+	<dimen name="password_activity_line_edit_text_margin_end">19dp</dimen>
+	<dimen name="password_activity_line_edit_text_text_size">11sp</dimen>
+	<dimen name="password_activity_register_copy_text_view_margin_bottom">35dp</dimen>
+	<dimen name="password_activity_register_copy_text_view_text_size">16sp</dimen>
+	<dimen name="password_activity_rectangle_copy2_constraint_layout_height">126dp</dimen>
+	<dimen name="password_activity_button_copy2_button_width">321dp</dimen>
+	<dimen name="password_activity_button_copy2_button_height">52dp</dimen>
+	<dimen name="password_activity_button_copy2_button_margin_bottom">36dp</dimen>
+	<dimen name="password_activity_button_copy2_button_margin_end">18dp</dimen>
+	<dimen name="password_activity_button_copy2_button_radius">3dp</dimen>
+	<dimen name="password_activity_button_copy2_button_text_size">15sp</dimen>
+
+
+	<!-- ProfileActivity -->
+
+	<dimen name="profile_activity_rectangle2_copy_edit_text_margin_top">29dp</dimen>
+	<dimen name="profile_activity_rectangle2_copy_edit_text_radius">3dp</dimen>
+	<dimen name="profile_activity_rectangle2_copy_edit_text_border_size">1dp</dimen>
+	<dimen name="profile_activity_rectangle2_copy_edit_text_text_size">11sp</dimen>
+	<dimen name="profile_activity_first_name_edit_text_margin_top">44dp</dimen>
+	<dimen name="profile_activity_first_name_edit_text_margin_start">44dp</dimen>
+	<dimen name="profile_activity_first_name_edit_text_text_size">15sp</dimen>
+	<dimen name="profile_activity_rectangle2_copy2_edit_text_margin_top">23dp</dimen>
+	<dimen name="profile_activity_rectangle2_copy2_edit_text_radius">3dp</dimen>
+	<dimen name="profile_activity_rectangle2_copy2_edit_text_border_size">1dp</dimen>
+	<dimen name="profile_activity_rectangle2_copy2_edit_text_text_size">11sp</dimen>
+	<dimen name="profile_activity_last_name_edit_text_margin_top">37dp</dimen>
+	<dimen name="profile_activity_last_name_edit_text_margin_start">44dp</dimen>
+	<dimen name="profile_activity_last_name_edit_text_text_size">15sp</dimen>
+	<dimen name="profile_activity_rectangle2_copy3_edit_text_margin_top">23dp</dimen>
+	<dimen name="profile_activity_rectangle2_copy3_edit_text_radius">3dp</dimen>
+	<dimen name="profile_activity_rectangle2_copy3_edit_text_border_size">1dp</dimen>
+	<dimen name="profile_activity_rectangle2_copy3_edit_text_text_size">11sp</dimen>
+	<dimen name="profile_activity_major_edit_text_margin_top">37dp</dimen>
+	<dimen name="profile_activity_major_edit_text_margin_start">44dp</dimen>
+	<dimen name="profile_activity_major_edit_text_text_size">15sp</dimen>
+	<dimen name="profile_activity_rectangle2_copy4_edit_text_margin_top">23dp</dimen>
+	<dimen name="profile_activity_rectangle2_copy4_edit_text_radius">3dp</dimen>
+	<dimen name="profile_activity_rectangle2_copy4_edit_text_border_size">1dp</dimen>
+	<dimen name="profile_activity_rectangle2_copy4_edit_text_text_size">11sp</dimen>
+	<dimen name="profile_activity_rectangle2_copy5_image_view_margin_top">34dp</dimen>
+	<dimen name="profile_activity_rectangle2_copy5_image_view_margin_start">14dp</dimen>
+	<dimen name="profile_activity_text_view_text_view_margin_top">36dp</dimen>
+	<dimen name="profile_activity_text_view_text_view_margin_start">46dp</dimen>
+	<dimen name="profile_activity_text_view_text_view_text_size">16sp</dimen>
+	<dimen name="profile_activity_mobile_number_edit_text_margin_top">37dp</dimen>
+	<dimen name="profile_activity_mobile_number_edit_text_margin_start">13dp</dimen>
+	<dimen name="profile_activity_mobile_number_edit_text_text_size">15sp</dimen>
+	<dimen name="profile_activity_register_text_view_margin_bottom">35dp</dimen>
+	<dimen name="profile_activity_register_text_view_text_size">16sp</dimen>
+	<dimen name="profile_activity_add_pic_constraint_layout_width">217dp</dimen>
+	<dimen name="profile_activity_add_pic_constraint_layout_height">73dp</dimen>
+	<dimen name="profile_activity_add_pic_constraint_layout_margin_top">30dp</dimen>
+	<dimen name="profile_activity_add_pic_constraint_layout_margin_start">30dp</dimen>
+	<dimen name="profile_activity_complete_profile_text_view_margin_top">35dp</dimen>
+	<dimen name="profile_activity_complete_profile_text_view_text_size">17sp</dimen>
+	<dimen name="profile_activity_rectangle_copy_constraint_layout_height">126dp</dimen>
+	<dimen name="profile_activity_rectangle_copy_constraint_layout_margin_start">-1dp</dimen>
+	<dimen name="profile_activity_rectangle_copy_constraint_layout_margin_end">1dp</dimen>
+	<dimen name="profile_activity_button_copy_button_height">52dp</dimen>
+	<dimen name="profile_activity_button_copy_button_margin_bottom">36dp</dimen>
+	<dimen name="profile_activity_button_copy_button_margin_start">19dp</dimen>
+	<dimen name="profile_activity_button_copy_button_margin_end">19dp</dimen>
+	<dimen name="profile_activity_button_copy_button_radius">3dp</dimen>
+	<dimen name="profile_activity_button_copy_button_text_size">15sp</dimen>
+	<dimen name="profile_activity_group3_constraint_layout_width">73dp</dimen>
+	<dimen name="profile_activity_group3_constraint_layout_height">73dp</dimen>
+	<dimen name="profile_activity_add_profile_pic_text_view_margin_end">17dp</dimen>
+	<dimen name="profile_activity_add_profile_pic_text_view_text_size">16sp</dimen>
+	<dimen name="profile_activity_building_constraint_layout_height">74dp</dimen>
+	<dimen name="profile_activity_mask_copy_image_view_margin_start">15dp</dimen>
+	<dimen name="profile_activity_mask_copy_image_view_margin_end">15dp</dimen>
+
+
+	<!-- MarketplaceActivity -->
+
+	<dimen name="marketplace_activity_rectangle3_image_view_border_size">1dp</dimen>
+	<dimen name="marketplace_activity_rectangle4_constraint_layout_height">102dp</dimen>
+	<dimen name="marketplace_activity_fill1_copy2_image_view_margin_top">15dp</dimen>
+	<dimen name="marketplace_activity_fill1_copy2_image_view_margin_end">31dp</dimen>
+	<dimen name="marketplace_activity_fill1_copy_image_view_margin_top">36dp</dimen>
+	<dimen name="marketplace_activity_fill1_copy_image_view_margin_end">26dp</dimen>
+	<dimen name="marketplace_activity_your_local_market_pl_text_view_margin_top">43dp</dimen>
+	<dimen name="marketplace_activity_your_local_market_pl_text_view_text_size">21sp</dimen>
+	<dimen name="marketplace_activity_rectangle7_edit_text_margin_top">24dp</dimen>
+	<dimen name="marketplace_activity_rectangle7_edit_text_radius">2dp</dimen>
+	<dimen name="marketplace_activity_rectangle7_edit_text_border_size">1dp</dimen>
+	<dimen name="marketplace_activity_rectangle7_edit_text_text_size">11sp</dimen>
+	<dimen name="marketplace_activity_fill1_button_width">17dp</dimen>
+	<dimen name="marketplace_activity_fill1_button_height">17dp</dimen>
+	<dimen name="marketplace_activity_fill1_button_margin_top">32dp</dimen>
+	<dimen name="marketplace_activity_fill1_button_margin_end">2dp</dimen>
+	<dimen name="marketplace_activity_fill1_button_text_size">11sp</dimen>
+	<dimen name="marketplace_activity_recent_listings_text_view_margin_top">24dp</dimen>
+	<dimen name="marketplace_activity_recent_listings_text_view_margin_start">21dp</dimen>
+	<dimen name="marketplace_activity_recent_listings_text_view_text_size">13sp</dimen>
+	<dimen name="marketplace_activity_list_ui_constraint_layout_width">151dp</dimen>
+	<dimen name="marketplace_activity_list_ui_constraint_layout_height">184dp</dimen>
+	<dimen name="marketplace_activity_list_ui_constraint_layout_margin_top">6dp</dimen>
+	<dimen name="marketplace_activity_list_ui_constraint_layout_margin_start">21dp</dimen>
+	<dimen name="marketplace_activity_list_ui_constraint_layout_radius">2dp</dimen>
+	<dimen name="marketplace_activity_list_ui_constraint_layout_border_size">1dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy2_constraint_layout_width">151dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy2_constraint_layout_height">184dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy2_constraint_layout_margin_bottom">38dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy2_constraint_layout_margin_start">21dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy2_constraint_layout_radius">2dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy2_constraint_layout_border_size">1dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy_constraint_layout_width">151dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy_constraint_layout_height">184dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy_constraint_layout_margin_end">21dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy_constraint_layout_radius">2dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy_constraint_layout_border_size">1dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy3_constraint_layout_width">151dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy3_constraint_layout_height">184dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy3_constraint_layout_margin_bottom">38dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy3_constraint_layout_margin_end">21dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy3_constraint_layout_radius">2dp</dimen>
+	<dimen name="marketplace_activity_list_ui_copy3_constraint_layout_border_size">1dp</dimen>
+	<dimen name="marketplace_activity_filter_btn_button_width">99dp</dimen>
+	<dimen name="marketplace_activity_filter_btn_button_height">28dp</dimen>
+	<dimen name="marketplace_activity_filter_btn_button_radius">3dp</dimen>
+	<dimen name="marketplace_activity_filter_btn_button_text_size">13sp</dimen>
+	<dimen name="marketplace_activity_fill1_image_view_margin_top">15dp</dimen>
+	<dimen name="marketplace_activity_fill1_image_view_margin_end">9dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_constraint_layout_height">51dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_constraint_layout_margin_bottom">2dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_constraint_layout_margin_start">6dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_constraint_layout_margin_end">5dp</dimen>
+	<dimen name="marketplace_activity_vcd4321_text_view_margin_bottom">-1dp</dimen>
+	<dimen name="marketplace_activity_vcd4321_text_view_margin_start">1dp</dimen>
+	<dimen name="marketplace_activity_vcd4321_text_view_text_size">5sp</dimen>
+	<dimen name="marketplace_activity_text_view_text_view_margin_end">1dp</dimen>
+	<dimen name="marketplace_activity_text_view_text_view_text_size">8sp</dimen>
+	<dimen name="marketplace_activity_sooyun_text_view_margin_bottom">-1dp</dimen>
+	<dimen name="marketplace_activity_sooyun_text_view_margin_start">14dp</dimen>
+	<dimen name="marketplace_activity_sooyun_text_view_text_size">5sp</dimen>
+	<dimen name="marketplace_activity_artdept_text_view_margin_bottom">-1dp</dimen>
+	<dimen name="marketplace_activity_artdept_text_view_margin_end">45dp</dimen>
+	<dimen name="marketplace_activity_artdept_text_view_text_size">5sp</dimen>
+	<dimen name="marketplace_activity_title_text_view_text_size">13sp</dimen>
+	<dimen name="marketplace_activity_description_text_view_margin_top">4dp</dimen>
+	<dimen name="marketplace_activity_description_text_view_margin_start">1dp</dimen>
+	<dimen name="marketplace_activity_description_text_view_text_size">7sp</dimen>
+	<dimen name="marketplace_activity_fill1_two_image_view_margin_top">15dp</dimen>
+	<dimen name="marketplace_activity_fill1_two_image_view_margin_end">9dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_two_constraint_layout_height">51dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_two_constraint_layout_margin_bottom">2dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_two_constraint_layout_margin_start">6dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_two_constraint_layout_margin_end">5dp</dimen>
+	<dimen name="marketplace_activity_vcd4321_two_text_view_margin_bottom">-1dp</dimen>
+	<dimen name="marketplace_activity_vcd4321_two_text_view_margin_start">1dp</dimen>
+	<dimen name="marketplace_activity_vcd4321_two_text_view_text_size">5sp</dimen>
+	<dimen name="marketplace_activity_text_view_two_text_view_margin_end">1dp</dimen>
+	<dimen name="marketplace_activity_text_view_two_text_view_text_size">8sp</dimen>
+	<dimen name="marketplace_activity_sooyun_two_text_view_margin_bottom">-1dp</dimen>
+	<dimen name="marketplace_activity_sooyun_two_text_view_margin_start">14dp</dimen>
+	<dimen name="marketplace_activity_sooyun_two_text_view_text_size">5sp</dimen>
+	<dimen name="marketplace_activity_artdept_two_text_view_margin_bottom">-1dp</dimen>
+	<dimen name="marketplace_activity_artdept_two_text_view_margin_end">45dp</dimen>
+	<dimen name="marketplace_activity_artdept_two_text_view_text_size">5sp</dimen>
+	<dimen name="marketplace_activity_title_two_text_view_text_size">13sp</dimen>
+	<dimen name="marketplace_activity_description_two_text_view_margin_top">4dp</dimen>
+	<dimen name="marketplace_activity_description_two_text_view_margin_start">1dp</dimen>
+	<dimen name="marketplace_activity_description_two_text_view_text_size">7sp</dimen>
+	<dimen name="marketplace_activity_fill1_three_image_view_margin_top">15dp</dimen>
+	<dimen name="marketplace_activity_fill1_three_image_view_margin_end">9dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_three_constraint_layout_height">51dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_three_constraint_layout_margin_bottom">2dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_three_constraint_layout_margin_start">6dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_three_constraint_layout_margin_end">5dp</dimen>
+	<dimen name="marketplace_activity_vcd4321_three_text_view_margin_bottom">-1dp</dimen>
+	<dimen name="marketplace_activity_vcd4321_three_text_view_margin_start">1dp</dimen>
+	<dimen name="marketplace_activity_vcd4321_three_text_view_text_size">5sp</dimen>
+	<dimen name="marketplace_activity_text_view_three_text_view_margin_end">1dp</dimen>
+	<dimen name="marketplace_activity_text_view_three_text_view_text_size">8sp</dimen>
+	<dimen name="marketplace_activity_sooyun_three_text_view_margin_bottom">-1dp</dimen>
+	<dimen name="marketplace_activity_sooyun_three_text_view_margin_start">14dp</dimen>
+	<dimen name="marketplace_activity_sooyun_three_text_view_text_size">5sp</dimen>
+	<dimen name="marketplace_activity_artdept_three_text_view_margin_bottom">-1dp</dimen>
+	<dimen name="marketplace_activity_artdept_three_text_view_margin_end">45dp</dimen>
+	<dimen name="marketplace_activity_artdept_three_text_view_text_size">5sp</dimen>
+	<dimen name="marketplace_activity_title_three_text_view_text_size">13sp</dimen>
+	<dimen name="marketplace_activity_description_three_text_view_margin_top">4dp</dimen>
+	<dimen name="marketplace_activity_description_three_text_view_margin_start">1dp</dimen>
+	<dimen name="marketplace_activity_description_three_text_view_text_size">7sp</dimen>
+	<dimen name="marketplace_activity_fill1_four_image_view_margin_top">15dp</dimen>
+	<dimen name="marketplace_activity_fill1_four_image_view_margin_end">9dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_four_constraint_layout_height">51dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_four_constraint_layout_margin_bottom">2dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_four_constraint_layout_margin_start">6dp</dimen>
+	<dimen name="marketplace_activity_ui_card_info_four_constraint_layout_margin_end">5dp</dimen>
+	<dimen name="marketplace_activity_vcd4321_four_text_view_margin_bottom">-1dp</dimen>
+	<dimen name="marketplace_activity_vcd4321_four_text_view_margin_start">1dp</dimen>
+	<dimen name="marketplace_activity_vcd4321_four_text_view_text_size">5sp</dimen>
+	<dimen name="marketplace_activity_text_view_four_text_view_margin_end">1dp</dimen>
+	<dimen name="marketplace_activity_text_view_four_text_view_text_size">8sp</dimen>
+	<dimen name="marketplace_activity_sooyun_four_text_view_margin_bottom">-1dp</dimen>
+	<dimen name="marketplace_activity_sooyun_four_text_view_margin_start">14dp</dimen>
+	<dimen name="marketplace_activity_sooyun_four_text_view_text_size">5sp</dimen>
+	<dimen name="marketplace_activity_artdept_four_text_view_margin_bottom">-1dp</dimen>
+	<dimen name="marketplace_activity_artdept_four_text_view_margin_end">45dp</dimen>
+	<dimen name="marketplace_activity_artdept_four_text_view_text_size">5sp</dimen>
+	<dimen name="marketplace_activity_title_four_text_view_text_size">13sp</dimen>
+	<dimen name="marketplace_activity_description_four_text_view_margin_top">4dp</dimen>
+	<dimen name="marketplace_activity_description_four_text_view_margin_start">1dp</dimen>
+	<dimen name="marketplace_activity_description_four_text_view_text_size">7sp</dimen>
+</resources>

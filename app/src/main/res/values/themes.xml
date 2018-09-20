@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+
+
+	<!-- Activity Themes -->
+
+	<style
+		name="AppTheme"
+		parent="Theme.AppCompat.NoActionBar"/>
+
+	<style
+		name="ActivitySplashScreenActivityTheme"
+		parent="AppTheme"/>
+
+	<style
+		name="ActivityIntroActivityTheme"
+		parent="AppTheme"/>
+
+	<style
+		name="ActivityEmailActivityTheme"
+		parent="AppTheme"/>
+
+	<style
+		name="ActivityPasswordActivityTheme"
+		parent="AppTheme"/>
+
+	<style
+		name="ActivityProfileActivityTheme"
+		parent="AppTheme"/>
+
+	<style
+		name="ActivityMarketplaceActivityTheme"
+		parent="AppTheme"/>
+
+</resources>
